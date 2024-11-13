@@ -14,7 +14,7 @@
 
 [![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.gg/zxKYvhSnVp?WT.mc_id=academic-000002-leestott)
 
-Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
+Azure Cloud Advocates de Microsoft se complace en ofrecer un plan de estudios de 10 semanas y 20 lecciones sobre ciencia de datos. Cada lección incluye cuestionarios previos y posteriores a la lección, instrucciones escritas para completar la lección, una solución y una tarea. Nuestra pedagogía basada en proyectos le permite aprender mientras construye, una forma comprobada de que las nuevas habilidades se mantengan.
 
 **Hearty thanks to our authors:** [Jasmine Greenaway](https://www.twitter.com/paladique), [Dmitry Soshnikov](http://soshnikov.com), [Nitya Narasimhan](https://twitter.com/nitya), [Jalen McGee](https://twitter.com/JalenMcG), [Jen Looper](https://twitter.com/jenlooper), [Maud Levy](https://twitter.com/maudstweets), [Tiffany Souterre](https://twitter.com/TiffanySouterre), [Christopher Harrison](https://www.twitter.com/geektrainer).
 
